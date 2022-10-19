@@ -1,4 +1,6 @@
-package flower.store;
+package containers;
+
+import flower.Flower;
 
 public class FlowerPack {
     private Flower flower;
